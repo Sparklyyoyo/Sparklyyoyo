@@ -33,6 +33,25 @@
 </p>
 
 ---
+### 📂 Projects
+
+- **🎯 [Neural Network Hardware Accelerator](link-to-repo)** *(Dec 2024, Individual)*  
+  Built a Nios II SoC with custom SystemVerilog accelerators (dot product, memory copy) for handwritten digit classification.  
+  Achieved **53% latency reduction** and **freed 10–30% CPU bandwidth** via DMA + word-copy accelerators.  
+
+- **🔒 [Hardware ARC4 Decryption Circuit](link-to-repo)** *(Nov 2024, Individual)*  
+  Implemented ARC4 decryption in SystemVerilog on DE1-SoC FPGA using state machines for KSA/PRGA.  
+  Designed a **parallelized brute-force cracker** reducing decryption time by **50%**, validated with 30+ encryption keys.  
+
+- **💻 [Simple RISC Machine](link-to-repo)** *(Nov 2023, Individual)*  
+  Designed a SystemVerilog RISC machine with datapath + 9+ modules (ALU, shifter, registers).  
+  Verified functionality with ModelSim assertions and waveforms, achieving full RTL coverage.  
+
+- **🤖 [PID Self-Balancing Two-Wheeled Robot](link-to-repo)** *(Jan–Apr 2025, Group Project)*  
+  Developed a self-balancing robot with PID motor control in embedded C, maintaining **±0.5° tilt accuracy**.  
+  Added **Bluetooth control**, complementary filtering for IMU angle estimation, and real-time dual display dashboard.  
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparklyyoyo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sparklyyoyo" />
