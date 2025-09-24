@@ -56,9 +56,3 @@
 - **[PID Self-Balancing Two-Wheeled Robot](link-to-repo)**  
   Developed a self-balancing robot with PID motor control in embedded C, maintaining **±0.5° tilt accuracy**.  
   Added **Bluetooth control**, complementary filtering for IMU angle estimation, and real-time dual display dashboard.  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparklyyoyo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sparklyyoyo" />
-</p>
