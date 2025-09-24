@@ -2,8 +2,8 @@
 <h3 align="center">Network Infrastructure Test Software Developer (CPM: Secure Boot, Firmware, OS) @ Nokia</h3>
 
 - 🔭 Developing and automating validation for **Central Processing Modules (Secure Boot, Digital Signatures, OS, Firmware)** on high-capacity service routers.  
-- 🌱 Learning **Universal Verification Methodology (UVM)** to deepen hardware validation expertise.  
-- 💬 Passionate about **hardware systems, embedded testing, and automation frameworks** (and tennis 🎾).  
+- 🌱 Learning **Universal Verification Methodology (UVM)** to better understand hardware validation.  
+- 💬 Passionate about **hardware systems, embedded testing, and tennis 🎾**.  
 - 📄 [View my Resume](https://github.com/Sparklyyoyo/Sparklyyoyo/blob/main/Resume.pdf)  
 - 📫 Reach me at **ynegm@student.ubc.ca**
 
