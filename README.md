@@ -2,7 +2,11 @@
 <h3 align="center">Network Infrastructure Test Software Developer - CPM @ Nokia</h3>
 
 - 🔭 Developing and automating validation for **Central Processing Modules (Secure Boot, Digital Signatures, OS, Firmware)** on high-capacity service routers.  
+- 🎓 I’m studying **Electrical Engineering at the University of British Columbia (UBC)**
 - 🌱 Learning more about **Universal Verification Methodology (UVM)** to better understand hardware validation.  
+- 🏍️ I’m also part of **UBC Thunderbikes**, building electric motorcycles
+- 🤸‍♂️ Outside of school and projects, I’m usually **on the tennis court, exploring hiking trails, going to concerts, or hanging out with friends**. I also dabble in MMA for fun!
+
 - 💬 Passionate about **hardware systems, embedded testing, and tennis 🎾**.  
 - 📄 [View my Resume](https://github.com/Sparklyyoyo/Sparklyyoyo/blob/main/Resume.pdf)  
 - 📫 Reach me at **ynegm@student.ubc.ca**
@@ -24,6 +28,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Tcl-powered.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -32,6 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
 </p>
+
 
 ---
 ### 📂 Projects
