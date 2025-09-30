@@ -53,6 +53,6 @@
     - Designed a SystemVerilog RISC machine with datapath + 9+ modules (ALU, shifter, registers).  
     - Verified functionality with ModelSim assertions and waveforms, achieving full RTL coverage.  
 
-- **[PID Self-Balancing Two-Wheeled Robot](link-to-repo)**  
+- **[PID Self-Balancing Two-Wheeled Robot](https://github.com/Sparklyyoyo/PID-Self-Balancing-Two-Wheeled-Robot)**  
     - Developed a self-balancing robot with PID motor control in embedded C, maintaining **±0.5° tilt accuracy**.  
     - Added **Bluetooth control**, complementary filtering for IMU angle estimation, and real-time dual display dashboard.  
