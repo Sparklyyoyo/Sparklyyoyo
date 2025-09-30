@@ -42,17 +42,17 @@
 ### 📂 Projects
 
 - **[Neural Network Hardware Accelerator](https://github.com/Sparklyyoyo/Neural-Network-Hardware-Accelerator)**
-  Built a Nios II SoC with custom SystemVerilog accelerators (dot product, memory copy) for handwritten digit classification.  
-  Achieved **53% latency reduction** and **freed 10–30% CPU bandwidth** via DMA + word-copy accelerators.  
+    - Built a Nios II SoC with custom SystemVerilog accelerators (dot product, memory copy) for handwritten digit classification.  
+    - Achieved **53% latency reduction** and **freed 10–30% CPU bandwidth** via DMA + word-copy accelerators.  
 
 - **[Hardware ARC4 Decryption Circuit](https://github.com/Sparklyyoyo/Hardware-ARC-4-Decryption)**
-  Implemented ARC4 decryption in SystemVerilog on DE1-SoC FPGA using state machines for KSA/PRGA.  
-  Designed a **parallelized brute-force cracker** reducing decryption time by **50%**, validated with 30+ encryption keys.  
+    - Implemented ARC4 decryption in SystemVerilog on DE1-SoC FPGA using state machines for KSA/PRGA.  
+    - Designed a **parallelized brute-force cracker** reducing decryption time by **50%**, validated with 30+ encryption keys.  
 
 - **[Simple RISC Machine](https://github.com/Sparklyyoyo/Simple-RISC-Machine)**
-  Designed a SystemVerilog RISC machine with datapath + 9+ modules (ALU, shifter, registers).  
-  Verified functionality with ModelSim assertions and waveforms, achieving full RTL coverage.  
+    - Designed a SystemVerilog RISC machine with datapath + 9+ modules (ALU, shifter, registers).  
+    - Verified functionality with ModelSim assertions and waveforms, achieving full RTL coverage.  
 
 - **[PID Self-Balancing Two-Wheeled Robot](link-to-repo)**  
-  Developed a self-balancing robot with PID motor control in embedded C, maintaining **±0.5° tilt accuracy**.  
-  Added **Bluetooth control**, complementary filtering for IMU angle estimation, and real-time dual display dashboard.  
+    - Developed a self-balancing robot with PID motor control in embedded C, maintaining **±0.5° tilt accuracy**.  
+    - Added **Bluetooth control**, complementary filtering for IMU angle estimation, and real-time dual display dashboard.  
